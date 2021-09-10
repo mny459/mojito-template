@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.mny459.mojitotemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mny459.mojitotemplate.MyBundle
 
 class MyProjectService(project: Project) {
 

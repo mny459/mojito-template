@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.mny459.mojitotemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.mny459.mojitotemplate.MyBundle
 
 class MyApplicationService {
 
